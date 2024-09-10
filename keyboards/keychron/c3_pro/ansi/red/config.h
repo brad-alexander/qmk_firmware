@@ -20,6 +20,9 @@
 #define LED_MAC_OS_PIN A4
 #define LED_WIN_OS_PIN A5
 #define LED_OS_PIN_ON_STATE 1
+#define TAPPING_TERM 650
+#define TAPPING_TERM_PER_KEY
+#define COMBO_MUST_HOLD_MODS
 
 #ifdef LED_MATRIX_ENABLE
 /* RGB Matrix Driver Configuration */
